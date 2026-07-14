@@ -43,7 +43,7 @@ A simple Python project that simulates mobile recharge plans for different netwo
 - Regular Recharge Plans
 - Data Packs
 
-## ▶ How to Run
+## How to Run
 
 1. Clone the repository
 
