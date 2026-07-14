@@ -1,8 +1,8 @@
-# 📱 Mobile Recharge System
+# Mobile Recharge System
 
 A simple Python project that simulates mobile recharge plans for different networks such as Jio, Airtel, and BSNL.
 
-## 🚀 Features
+##  Features
 
 - Multiple Networks Support
   - Jio
@@ -15,21 +15,21 @@ A simple Python project that simulates mobile recharge plans for different netwo
 - Recharge Receipt
 - Recharge Success/Failure Message
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Python 3
 - if, elif, else conditions
 - User Input
 - Boolean Variables
 
-## 📦 Supported Coupon Codes
+##  Supported Coupon Codes
 
 | Coupon Code | Discount |
 |-------------|-----------|
 | SAVE50 | ₹50 Off |
 | SAVE100 | ₹100 Off |
 
-## 📱 Supported Networks
+##  Supported Networks
 
 ### Jio
 - Regular Recharge Plans
@@ -43,7 +43,7 @@ A simple Python project that simulates mobile recharge plans for different netwo
 - Regular Recharge Plans
 - Data Packs
 
-## ▶️ How to Run
+## ▶ How to Run
 
 1. Clone the repository
 
