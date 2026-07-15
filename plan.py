@@ -219,7 +219,7 @@ elif network == "airtel":
         print("Data: 50 GB")                              
     else:
         print("Pack Not Available")   
-if network == "bsnl":
+elif network == "bsnl":
 #Recharge plans bsnl    
     if amount == 107:
         print("----- Recharge Receipt -----")
@@ -347,5 +347,5 @@ if plan_available:
         print("No Coupon Applied")
 else:
     print("Recharge Not Success")        
-
+ 
 print("Final Amount: ₹",amount)                    

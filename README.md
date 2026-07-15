@@ -43,9 +43,8 @@ A simple Python project that simulates mobile recharge plans for different netwo
 - Regular Recharge Plans
 - Data Packs
 
-## How to Run
+Time Complexity  : O(1)
+Space Complexity : O(1)
 
-1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/mobile-recharge-system.git
+Reason:
+The program uses a fixed number of if-elif conditions and does not iterate over input-dependent data.
